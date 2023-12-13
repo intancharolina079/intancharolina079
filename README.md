@@ -1,6 +1,6 @@
 ![logo](https://github.com/intancharolina079/intancharolina079/blob/main/knigi-po-informatike.png)
 <h1 align="center">Hi 👋, I'm Intan Charolina</h1>
-<h3 align="center">I am an Junior Android Developer and Junior Backend Engineer</h3>
+<h3 align="center">I am interested to Backend Engineer and Android Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
