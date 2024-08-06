@@ -1,4 +1,3 @@
-![logo](https://github.com/intancharolina079/intancharolina079/blob/main/knigi-po-informatike.png)
 <h1 align="center">Hi 👋, I'm Intan Charolina</h1>
 <h3 align="center">I am interested to Backend Engineer and Android Developer</h3>
 
